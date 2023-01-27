@@ -1,4 +1,2 @@
-# formulario-casdastro
-Formulário de cadastro que utiliza JavaScript para consumir e tratar dados de uma API.
-
-CEP > Tratamento de erros e autopreenchimento quando o dado é válido
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
